@@ -1,0 +1,11 @@
+.App {
+   
+   background-image: url('./img/centro-telecomunicaciones.jpg');
+   align-items: stretch;
+   
+}
+
+.img {
+   max-width: 18%;
+    height: auto;
+}
